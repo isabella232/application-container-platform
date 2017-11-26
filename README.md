@@ -1,6 +1,6 @@
 # Application Container Platform
 
-This page will give you an overview of HOD DSP, the services it entails and the ways to get access to them. This is a general overview. Developers should check out the [Developer Docs](docs/developer-docs).
+This page will give you an overview of HOD DSP, the services it entails and the ways to get access to them. This is a general overview. Developers should check out the [Developer Docs](developer-docs).
 
 ## Service Status
 
